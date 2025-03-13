@@ -27,7 +27,7 @@ cd An-Arithmetic-Formatter-Project
 1. Edit `target_folder` in the script to your desired path
 2. Run:
 ```python
-python file_organizer.py
+python main.py
 ```
 
 ## 💡 Example
